@@ -1,3 +1,2 @@
-
-Here is my miniprojects code                                                                  | 
+miniprojects code   
 
